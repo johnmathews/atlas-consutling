@@ -60,7 +60,7 @@ export default function Features() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
         <div className="py-12 md:py-20">
           {/* Section header */}
-          <div className="max-w-5xl mx-auto text-center pb-12 md:pb-20">
+          <div className="max-w-5xl mx-auto text-center pb-12 md:pb-18">
             <h2 className="h3 font-hkgrotesk mb-4">
               We specialize in helping businesses unlock the potential of their
               data. With extensive experience in data engineering, we provide

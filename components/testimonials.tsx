@@ -51,9 +51,9 @@ export default function Testimonials() {
                 </div>
               </header>
               <div className="grow mb-3">
-                <p className="text-slate-500 italic">"John played a big role helping my team get our biggest and most challenging analytics tool across the line. He ramped up quickly, communicated well and was always responsive."</p>
+                <p className="text-slate-400 italic">"John played a big role helping my team get our biggest and most challenging analytics tool across the line. He ramped up quickly, communicated well and was always responsive."</p>
               </div>
-              <footer className="text-sm text-slate-500 font-medium">
+              <footer className="text-sm text-slate-400 font-medium">
                 <a className="text-slate-300 hover:text-white transition duration-150 ease-in-out" href="#0">Team Lead</a> - <span className="text-indigo-500">Uber</span>
               </footer>
             </article>
@@ -98,9 +98,9 @@ export default function Testimonials() {
                 </div>
               </header>
               <div className="grow mb-3">
-                <p className="text-slate-500 italic">"John is a creative and conscientious software engineer, who understands business requirements well and translating those into applications under tight deadlines. Highly recommended."</p>
+                <p className="text-slate-400 italic">"John is a creative and conscientious software engineer, who understands business requirements well and translating those into applications under tight deadlines. Highly recommended."</p>
               </div>
-              <footer className="text-sm text-slate-500 font-medium">
+              <footer className="text-sm text-slate-400 font-medium">
                 <a className="text-slate-300 hover:text-white transition duration-150 ease-in-out" href="#0">Principal Geoscientist</a> - <span className="text-indigo-500">Shell</span>
               </footer>
             </article>
